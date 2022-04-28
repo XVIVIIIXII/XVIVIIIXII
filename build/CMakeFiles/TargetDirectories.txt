@@ -1,0 +1,3 @@
+C:/Users/Junior/Downloads/hello/build/CMakeFiles/hello.dir
+C:/Users/Junior/Downloads/hello/build/CMakeFiles/edit_cache.dir
+C:/Users/Junior/Downloads/hello/build/CMakeFiles/rebuild_cache.dir

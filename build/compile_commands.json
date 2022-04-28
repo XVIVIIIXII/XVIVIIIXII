@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Junior/Downloads/hello/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\helloworld.cpp.obj -c C:\\Users\\Junior\\Downloads\\hello\\helloworld.cpp",
+  "file": "C:/Users/Junior/Downloads/hello/helloworld.cpp"
+}
+]
